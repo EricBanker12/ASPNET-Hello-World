@@ -1,0 +1,19 @@
+﻿@using Models
+
+<div class="col-lg-3 col-md-4 col-sm-6 card d-flex flex-column align-items-center" style="background: #eee;">
+    <img
+        class="card-img-top mw-100"
+        src="@hello.image"
+        alt="@hello.language"
+        style="width: 250px; height: 188px; object-fit: contain;"
+    />
+    <div class="card-body text-center">
+        <h5 class="card-title">@hello.language</h5>
+        <p class="card-text">@hello.text</p>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public HelloWorld hello { get; set; }
+}

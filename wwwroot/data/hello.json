@@ -1,0 +1,233 @@
+﻿[
+    
+    {
+        "language": "English",
+        "image": "images/English.svg",
+        "text": "Hello World!"
+    },
+    {
+        "language": "Catalan (Català)",
+        "image": "images/Catalan.svg",
+        "text": "Hola món!"
+    },
+    {
+        "language": "Czech (čeština)",
+        "image": "images/Czech.svg",
+        "text": "Ahoj světe!"
+    },
+    {
+        "language": "Estonian (Eesti keel)",
+        "image": "images/Estonian.svg",
+        "text": "Tere, Maailm!"
+    },
+    {
+        "language": "German (Deutsche)",
+        "image": "images/German.svg",
+        "text": "Hallo Welt!"
+    },
+    {
+        "language": "Italian (italiano)",
+        "image": "images/Italian.svg",
+        "text": "Ciao mondo!"
+    },
+    {
+        "language": "Lithuanian (Lietuvių)",
+        "image": "images/Lithuanian.svg",
+        "text": "Labas pasauli!"
+    },
+    {
+        "language": "Norwegian (norsk)",
+        "image": "images/Norwegian.svg",
+        "text": "Hei Verden!"
+    },
+    {
+        "language": "Russian (русский)",
+        "image": "images/Russian.svg",
+        "text": "Привет мир!"
+    },
+    {
+        "language": "Spanish (Español)",
+        "image": "images/Spanish.svg",
+        "text": "Hola Mundo!"
+    },
+    {
+        "language": "Telugu (తెలుగు)",
+        "image": "images/Indian.svg",
+        "text": "హలో వరల్డ్!"
+    },
+    {
+        "language": "Urdu (اردو)",
+        "image": "images/Urdu.svg",
+        "text": "ہیلو ورلڈ!"
+    },
+    {
+        "language": "Thai (ไทย)",
+        "image": "images/Thai.svg",
+        "text": "สวัสดีชาวโลก!"
+    },
+    {
+        "language": "Swedish (svenska)",
+        "image": "images/Swedish.svg",
+        "text": "Hej världen!"
+    },
+    {
+        "language": "Serbian (Српски)",
+        "image": "images/Serbian.svg",
+        "text": "Здраво Свете!"
+    },
+    {
+        "language": "Polish (Polskie)",
+        "image": "images/Polish.svg",
+        "text": "Witaj świecie!"
+    },
+    {
+        "language": "Malay (Melayu)",
+        "image": "images/Malay.svg",
+        "text": "Hai dunia!"
+    },
+    {
+        "language": "Japanese (日本人)",
+        "image": "images/Japanese.svg",
+        "text": "\"こんにちは世界\""
+    },
+    {
+        "language": "Greek (Ελληνικά)",
+        "image": "images/Greek.svg",
+        "text": "Γειά σου Κόσμε!"
+    },
+    {
+        "language": "Filipino (Filipino)",
+        "image": "images/Filipino.svg",
+        "text": "Hello World!"
+    },
+    {
+        "language": "Danish (dansk)",
+        "image": "images/Danish.svg",
+        "text": "Hej Verden!"
+    },
+    {
+        "language": "Chinese Simplified (简体中文)",
+        "image": "images/Chinese.svg",
+        "text": "你好，世界！"
+    },
+    {
+        "language": "Arabic (عربى)",
+        "image": "images/Arabic.svg",
+        "text": "مرحبا بالعالم!"
+    },
+    {
+        "language": "Bengali (বাঙালি)",
+        "image": "images/Bengali.svg",
+        "text": "ওহে বিশ্ব!"
+    },
+    {
+        "language": "Chinese Traditional (中國傳統的)",
+        "image": "images/Chinese.svg",
+        "text": "你好，世界！"
+    },
+    {
+        "language": "Dutch (Nederlands)",
+        "image": "images/Dutch.svg",
+        "text": "Hallo Wereld!"
+    },
+    {
+        "language": "Finnish (Suomalainen)",
+        "image": "images/Finnish.svg",
+        "text": "Hei maailma!"
+    },
+    {
+        "language": "Hebrew (עברית)",
+        "image": "images/Hebrew.svg",
+        "text": "שלום עולם!"
+    },
+    {
+        "language": "Korean (한국어)",
+        "image": "images/Korean.svg",
+        "text": "안녕하세요!"
+    },
+    {
+        "language": "Malayalam (മലയാളം)",
+        "image": "images/Indian.svg",
+        "text": "ഹലോ വേൾഡ്!"
+    },
+    {
+        "language": "Portuguese (Português)",
+        "image": "images/Portuguese.svg",
+        "text": "Olá Mundo!"
+    },
+    {
+        "language": "Slovak (slovenský)",
+        "image": "images/Slovak.svg",
+        "text": "Ahoj Svet!"
+    },
+    {
+        "language": "Tajik (Тоҷикӣ)",
+        "image": "images/Tajik.svg",
+        "text": "Салом Ҷаҳон!"
+    },
+    {
+        "language": "Turkish (Türk)",
+        "image": "images/Turkish.svg",
+        "text": "Selam Dünya!"
+    },
+    {
+        "language": "Vietnamese (Tiếng Việt)",
+        "image": "images/Vietnamese.svg",
+        "text": "Chào thế giới!"
+    },
+    {
+        "language": "Bulgarian (български)",
+        "image": "images/Bulgarian.svg",
+        "text": "Здравей свят!"
+    },
+    {
+        "language": "Croatian (Hrvatski)",
+        "image": "images/Croatian.svg",
+        "text": "Pozdrav svijete!"
+    },
+    {
+        "language": "Esperanto (Esperanto)",
+        "image": "images/Esperanto.svg",
+        "text": "Saluton mondo!"
+    },
+    {
+        "language": "French (français)",
+        "image": "images/French.svg",
+        "text": "Bonjour le monde!"
+    },
+    {
+        "language": "Indonesian (bahasa Indonesia)",
+        "image": "images/Indonesian.svg",
+        "text": "Halo Dunia!"
+    },
+    {
+        "language": "Latvian (Latviešu valoda)",
+        "image": "images/Latvian.svg",
+        "text": "Sveika pasaule!"
+    },
+    {
+        "language": "Marathi (मराठी)",
+        "image": "images/Indian.svg",
+        "text": "हॅलो वर्ल्ड!"
+    },
+    {
+        "language": "Romanian (Română)",
+        "image": "images/Romanian.svg",
+        "text": "Salut Lume!"
+    },
+    {
+        "language": "Slovenian (Slovenščina)",
+        "image": "images/Slovenian.svg",
+        "text": "Pozdravljen, svet!"
+    },
+    {
+        "language": "Tamil (தமிழ்)",
+        "image": "images/Indian.svg",
+        "text": "வணக்கம் உலகம்!"
+    },
+    {
+        "language": "Ukrainian (Українська)",
+        "image": "images/Ukrainian.svg",
+        "text": "Привіт Світ!"
+    }
+]

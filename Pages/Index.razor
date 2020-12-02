@@ -1,0 +1,39 @@
+﻿@page "/"
+
+@using Models
+@using Shared
+@inject HttpClient Http
+
+<div class="container-fluid">
+    <div class="row">
+        @if (helloWorldArr == null)
+        {
+            <p>Loading...</p>
+        }
+        else
+        {
+            foreach (HelloWorld hello in helloWorldArr)
+            {
+                <Hello hello=@hello />
+            }
+        }
+    </div>
+</div>
+
+
+
+@code {
+    private HelloWorld[] helloWorldArr;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            helloWorldArr = await Http.GetFromJsonAsync<HelloWorld[]>("data/hello.json");
+        }
+        catch (Exception e)
+        {
+            System.Console.WriteLine(e.ToString());
+        }
+    }
+}
